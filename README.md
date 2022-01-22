@@ -1,11 +1,12 @@
 # Salut !
 
-   
-  [Site WEb](http://alexisverdiere.fr)  [LinkedIn](https://www.linkedin.com/in/alexis-verdiere/)
-
 ## À propos de moi
 
 Je m'appelle Alexis Verdiere, un jeune étudiuant en BTS **SIO** (Services informatiques aux organisations) option **SLAM** (Solutions Logicielles et Applications Métier) à l'école Esiee-IT j'ai 19 ans.
+
+  Mon [Site WEb](http://alexisverdiere.fr).
+  
+  Retrouvez moi sur [LinkedIn](https://www.linkedin.com/in/alexis-verdiere/).
 
 ## Moi 
 
