@@ -2,11 +2,14 @@
 
 ## À propos de moi
 
-Je m'appelle Alexis Verdiere, un jeune étudiuant en BTS **SIO** (Services informatiques aux organisations) option **SLAM** (Solutions Logicielles et Applications Métier) à l'école Esiee-IT j'ai 19 ans.
+### Alexis Verdière
 
-  Mon [Site WEb](http://alexisverdiere.fr).
-  
-  Retrouvez moi sur [LinkedIn](https://www.linkedin.com/in/alexis-verdiere/).
+Développeur web passionné, j'ai 20 ans et je suis spécialisé dans les langages HTML, CSS, JavaScript et PHP. Je suis toujours à la recherche de nouveaux défis et d'opportunités pour apprendre de nouvelles technologies et améliorer mes compétences en développement web. 
+
+En dehors de mes heures de travail, vous pouvez me trouver en train de m'entraîner en sport ou de découvrir de nouvelles musiques et films.
+
+N'hésitez pas à me contacter si vous avez des projets intéressants ou si vous souhaitez en savoir plus sur moi et mon travail !
+
 
 ## Moi 
 
