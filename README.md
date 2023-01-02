@@ -26,8 +26,3 @@ N'hésitez pas à me contacter si vous avez des projets intéressants ou si vous
    - Suite office
    - Suite Pycharm (*PYTHON*, *JAVA*)
 
-
-## Parcour
-
-Je prépare une formation de 2 ans en informatique , diplôme bts services informatiques aux organisations en solutions logicielles et applications métiers.
-Jeune diplomer d'uun **Baccalauréat** STI2D (sciences et technologies de l'industrie et du développement durable) .
