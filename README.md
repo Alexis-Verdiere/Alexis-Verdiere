@@ -15,9 +15,6 @@ Développeur web passionné, j'ai 20 ans et je suis spécialisé dans les langag
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Alexis-Verdiere&icon=0&color=0)](https://visitcount.itsvg.in)
 
